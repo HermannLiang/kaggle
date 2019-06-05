@@ -4,7 +4,7 @@ Collection of notebooks from the kaggle competitions I joined.
 ### Starter Competition:
 
 Titanic: Machine Learning from Disaster. Top 21%, achieved by model stacking.
-[My notebook](https://github.com/HermannLiang/kaggle/blob/master/Titanic/Titanic%20First%20try.ipynb) 
+[My notebook in Kaggle](https://www.kaggle.com/whateverandrew/titanic-first-try), [github](https://github.com/HermannLiang/kaggle/blob/master/Titanic/Titanic%20First%20try.ipynb)
 
 ### Research Competition
 
